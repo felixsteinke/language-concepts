@@ -37,7 +37,7 @@ Compiled object-oriented language with strong (and static, but also dynamic) typ
 
 Official Documentation: [Microsoft VB .NET](https://docs.microsoft.com/dotnet/visual-basic/)
 
-Preferred IDE: [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+Preferred IDE: [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 ### System Requirements
 
