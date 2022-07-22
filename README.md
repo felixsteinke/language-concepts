@@ -22,12 +22,24 @@ Compiled object-oriented language with strong and static typing.
 
 Official Documentation: [Oracle Java SE 17](https://docs.oracle.com/en/java/javase/17/)
 
+Preferred IDE: [Jetbrains IntelliJ IDEA](https://www.jetbrains.com/idea/download/) 
+
 ### System Requirements
 
 * [OpenJDK 17](https://www.microsoft.com/openjdk)
 * [Maven 3.8](https://maven.apache.org/download.cgi)
 
-## C# (.NET)
+## C#
 
-## Visual Basic (.NET)
+## Visual Basic
 
+Compiled object-oriented language with strong (and static, but also dynamic) typing.
+
+Official Documentation: [Microsoft VB .NET](https://docs.microsoft.com/dotnet/visual-basic/)
+
+Preferred IDE: [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+
+### System Requirements
+
+* [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+* [.NET 6 SDK](https://dotnet.microsoft.com/download)
