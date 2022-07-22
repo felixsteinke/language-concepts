@@ -8,12 +8,19 @@ public class ReferenceTypes {
 
     interface DemoInterface {
         void demoMethod();
+
+        int demoFunction(int x);
     }
 
     class DemoClass extends Object implements DemoInterface {
         @Override
         public void demoMethod() {
             System.out.println("Do something!");
+        }
+
+        @Override
+        public int demoFunction(int x) {
+            return x * x;
         }
     }
 }

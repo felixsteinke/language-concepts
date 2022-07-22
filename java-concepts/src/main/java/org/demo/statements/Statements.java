@@ -5,9 +5,9 @@ import java.time.DayOfWeek;
 public class Statements {
 
     void iterationStatementFor(){
-        for (int i = 0; i < 5; i++) {
-            if (i == 3) {
-                System.out.println("Skip the 3!");
+        for (int i = 0; i < 10; i += 2) {
+            if (i == 4) {
+                System.out.println("Skip the 4!");
                 continue;
             }
             System.out.println("Loop on i: " + i);
@@ -38,7 +38,9 @@ public class Statements {
             System.out.println("Branch 2");
         } else {
             System.out.println("Default Branch");
+            return;
         }
+        System.out.println("Selected a predicted branch.");
     }
 
     void selectStatementSwitch(){
