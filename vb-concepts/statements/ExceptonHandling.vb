@@ -1,4 +1,4 @@
-﻿Public Class ExceptonHandling
+﻿Public Class ExceptionHandling
 
     Sub handleException()
         Try

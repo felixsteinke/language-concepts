@@ -24,6 +24,14 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+*/.idea/
+*/target/
+*/out/
+*.iml
+*-tcpmqtteclipseorg1883/
+*/obj
+*/bin
+
 # Visual Studio 2015 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
@@ -235,7 +243,7 @@ FakesAssemblies/
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
-node_modules/
+*/node_modules/
 
 # Typescript v1 declaration files
 typings/
@@ -308,7 +316,7 @@ MainNancy/Instagram-61831579/
 /bazel-out
 
 # Node
-/node_modules
+*/node_modules
 npm-debug.log
 yarn-error.log
 
